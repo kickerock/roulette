@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 739 745">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #534242;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fdfdfd;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #f05965;
+      }
+
+      .cls-10, .cls-5, .cls-8 {
+        font-size: 29px;
+      }
+
+      .cls-10, .cls-5, .cls-6, .cls-8 {
+        font-family: SFProDisplay-Bold, SF Pro Display;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        font-size: 69px;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #3aaf25;
+      }
+
+      .cls-10, .cls-9 {
+        fill: #2774f0;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="739" height="745" transform="translate(878 649)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" class="cls-2" transform="translate(-878 -649)">
+    <g id="Group_16" data-name="Group 16" transform="translate(-154 107)">
+      <path id="Path_36" data-name="Path 36" class="cls-3" d="M274.209,54.228l-133.46,76.853A179.94,179.94,0,0,1,158.516,194.3L126.7,212.893l31.816,18.594A182.449,182.449,0,0,1,140.748,294.7l133.46,76.853c16.114,9.09,36.774,2.479,43.8-14.875a370.711,370.711,0,0,0,28.923-143.79A370.711,370.711,0,0,0,318.007,69.1,30.469,30.469,0,0,0,274.209,54.228Z" transform="translate(1316.474 718) rotate(-30)"/>
+      <path id="Path_37" data-name="Path 37" class="cls-3" d="M93,31.138V184.845a185.059,185.059,0,0,1,64.044,16.114v37.6l32.229-18.594A189.873,189.873,0,0,1,233.9,266.243L366.945,189.39a30.977,30.977,0,0,0,9.09-45.451C316.949,66.673,228.526,12.958,127.295.149,109.528-1.917,93,12.545,93,31.138Z" transform="translate(1146.745 635.112) rotate(-30)"/>
+      <path id="Path_38" data-name="Path 38" class="cls-3" d="M32.248,189.138l133.047,76.853a184.043,184.043,0,0,1,45.864-47.1l33.468,19.42V199.881a184.6,184.6,0,0,1,61.978-15.288V30.886c0-18.594-16.528-33.055-34.708-30.576A371.712,371.712,0,0,0,23.158,143.687C12,158.562,16.133,180.048,32.248,189.138Z" transform="translate(940.413 754.529) rotate(-30)"/>
+      <path id="Path_39" data-name="Path 39" class="cls-3" d="M221.883,212.342,188,192.922a195.059,195.059,0,0,1,17.767-61.978L72.721,54.09C56.607,45,35.948,51.611,28.923,68.965a370.856,370.856,0,0,0,0,287.167c7.024,16.941,27.684,23.965,43.8,14.875l133.46-76.853a175.852,175.852,0,0,1-17.767-61.978Z" transform="translate(972.894 916.526) rotate(-30)"/>
+      <path id="Path_40" data-name="Path 40" class="cls-3" d="M244.627,180.41V141.984L211.159,161.4a191.1,191.1,0,0,1-45.864-47.1L32.248,191.153a30.977,30.977,0,0,0-9.09,45.451c59.086,77.266,147.509,130.981,248.74,143.79a30.647,30.647,0,0,0,34.708-30.576V195.7A192.305,192.305,0,0,1,244.627,180.41Z" transform="translate(1119.35 1064.456) rotate(-30)"/>
+      <path id="Path_41" data-name="Path 41" class="cls-3" d="M234,114.2a176.257,176.257,0,0,1-44.624,46.277l-32.229-18.594v37.6A185.058,185.058,0,0,1,93.1,195.6V349.3c0,18.594,16.528,33.055,34.708,30.576,101.231-12.809,189.654-66.524,248.74-143.79a30.977,30.977,0,0,0-9.09-45.451Z" transform="translate(1325.922 944.829) rotate(-30)"/>
+      <g id="_15_Likes" data-name="15 Likes" transform="translate(1656.583 695.574) rotate(60)">
+        <path id="Path_14" data-name="Path 14" class="cls-4" d="M46.975,0a14.031,14.031,0,0,1,8.1,2.557c8.1,5.114,10.654,16.194,5.966,25.144C57.63,34.093,43.992,45.6,32.06,54.549h-.852C19.274,45.6,5.637,33.667,2.228,27.7-2.46,18.751.523,7.245,8.62,2.557A13.114,13.114,0,0,1,16.717,0c5.114,0,8.95.852,12.785,4.688L32.06,8.1,34.19,4.688C38.452.426,42.288,0,46.975,0" transform="translate(30.856 0)"/>
+        <text id="_150_Likes" data-name="150 Likes" class="cls-5" transform="translate(-0.144 99.746)"><tspan x="0" y="0">150 Likes</tspan></text>
+      </g>
+      <text id="_0" data-name="0" class="cls-6" transform="translate(1380 661)"><tspan x="0" y="0">0</tspan></text>
+      <g id="_50_Comments" data-name="50 Comments" transform="translate(1496.235 1245.498) rotate(-180)">
+        <path id="Path_13" data-name="Path 13" class="cls-7" d="M50.839,40.975a28.4,28.4,0,0,0,3.794-13.658A27.317,27.317,0,1,0,27.317,54.633a27.265,27.265,0,0,0,13.658-3.794L52.736,53.5Z" transform="translate(66.827 0)"/>
+        <text id="_50_Comments-2" data-name="50 Comments" class="cls-8" transform="translate(-0.173 99.83)"><tspan x="0" y="0">50 Comments</tspan></text>
+      </g>
+      <g id="_150_Followers" data-name="150 Followers" transform="translate(1069.65 827.623) rotate(-60)">
+        <g id="Group_2" data-name="Group 2" transform="translate(63.03 0)">
+          <path id="Path_15" data-name="Path 15" class="cls-9" d="M15.6,0a15.6,15.6,0,1,0,0,31.2A15.884,15.884,0,0,0,31.2,15.6C31.6,7.2,24.4,0,15.6,0Z" transform="translate(13.199 0)"/>
+          <path id="Path_16" data-name="Path 16" class="cls-9" d="M1.2,18.4A1.061,1.061,0,0,1,0,17.2V13.6C0,6,4,0,11.6,0H46.4C54,0,58,6,58,13.6v3.6a1.061,1.061,0,0,1-1.2,1.2Z" transform="translate(0 36.798)"/>
+        </g>
+        <text id="_150_Followers-2" data-name="150 Followers" class="cls-10" transform="translate(0.03 100.234)"><tspan x="0" y="0">150 Followers</tspan></text>
+      </g>
+      <g id="_15_Likes-2" data-name="15 Likes" transform="translate(1146.841 1135.67) rotate(-120)">
+        <path id="Path_14-2" data-name="Path 14" class="cls-4" d="M46.975,0a14.031,14.031,0,0,1,8.1,2.557c8.1,5.114,10.654,16.194,5.966,25.144C57.63,34.093,43.992,45.6,32.06,54.549h-.852C19.274,45.6,5.637,33.667,2.228,27.7-2.46,18.751.523,7.245,8.62,2.557A13.114,13.114,0,0,1,16.717,0c5.114,0,8.95.852,12.785,4.688L32.06,8.1,34.19,4.688C38.452.426,42.288,0,46.975,0" transform="translate(34.713 0)"/>
+        <text id="_200_Likes" data-name="200 Likes" class="cls-5" transform="translate(0 99.746)"><tspan x="0" y="0">200 Likes</tspan></text>
+      </g>
+      <g id="_150_Followers-3" data-name="150 Followers" transform="translate(1734.243 999.51) rotate(120)">
+        <g id="Group_2-2" data-name="Group 2" transform="translate(65.459 0)">
+          <path id="Path_15-2" data-name="Path 15" class="cls-9" d="M15.6,0a15.6,15.6,0,1,0,0,31.2A15.884,15.884,0,0,0,31.2,15.6C31.6,7.2,24.4,0,15.6,0Z" transform="translate(13.199 0)"/>
+          <path id="Path_16-2" data-name="Path 16" class="cls-9" d="M1.2,18.4A1.061,1.061,0,0,1,0,17.2V13.6C0,6,4,0,11.6,0H46.4C54,0,58,6,58,13.6v3.6a1.061,1.061,0,0,1-1.2,1.2Z" transform="translate(0 36.798)"/>
+        </g>
+        <text id="_200_Followers" data-name="200 Followers" class="cls-10" transform="translate(0 100.234)"><tspan x="0" y="0">200 Followers</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

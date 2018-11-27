@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 146.679 84.197">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7ff38;
+      }
+
+      .cls-2 {
+        filter: url(#Subtraction_1);
+      }
+    </style>
+    <filter id="Subtraction_1" x="0" y="0" width="146.679" height="84.197" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Subtraction_1-2" data-name="Subtraction 1" class="cls-1" d="M-2094.66,108.2a9.934,9.934,0,0,1-7.071-2.929L-2153,54h116.68l-51.269,51.269A9.936,9.936,0,0,1-2094.66,108.2Z" transform="translate(2168 -44)"/>
+  </g>
+</svg>

